@@ -1,0 +1,12 @@
+Python 3.9
+TensorFlow 2.x / Keras
+ResNet50 (ImageNet)
+OpenCV
+Grad-CAM
+Streamlit
+NumPy / Pandas
+Scikit-learn
+Matplotlib / Seaborn
+Google Colab Pro
+BraTS 2020 Dataset
+DUKE Breast Cancer MRI
